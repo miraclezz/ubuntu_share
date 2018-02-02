@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/ubuntu_share/netfilter/http.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-23-generic/scripts/module-common.lds --build-id  -o /mnt/hgfs/ubuntu_share/netfilter/http.ko /mnt/hgfs/ubuntu_share/netfilter/http.o /mnt/hgfs/ubuntu_share/netfilter/http.mod.o
